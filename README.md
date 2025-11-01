@@ -1,2 +1,6 @@
 # ÖZEL İLAN TOKEN JOİNER
-- TEK YAPMANIZ GEREKEN **token.txt** DOLDURUP TERMİNALİ AÇIP *python joiner.py* YAZMANIZDIR VE TERMİNALE DAVET LİNKİNİ YAPIŞTIRMAKTIR.
+- YAPMANIZ GEREKENLER.
+> terminali açıp **npm i** yazıp modülleri kurmanız gerekiyor.
+> tokens.txt - Doldurmanız gerekiyor.
+> config.json - Doldurmanız gerekiyor.
+> ve son olarak **node .** yazmanız yeterlidir.
